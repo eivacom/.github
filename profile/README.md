@@ -4,11 +4,11 @@
 
 ## Welcome 🌊
 
-[eivacome](https://github.com/eivacom) is the official GitHub organization for EIVA A/S, a company specializing in software and solutions for hydrographic surveying, marine construction, and subsea operations.
+[eivacom](https://github.com/eivacom) is the official GitHub organization for EIVA a/s, a company specializing in software and solutions for hydrographic surveying, marine construction, and subsea operations.
 
-### About EIVA A/S
+### About EIVA a/s
 
-EIVA A/S provides cutting-edge technology for the maritime industry, offering software, hardware, and integrated solutions to help professionals navigate and operate efficiently in underwater environments. Our products support industries such as offshore wind, dredging, and ocean science.
+EIVA a/s provides cutting-edge technology for the maritime industry, offering software, hardware, and integrated solutions to help professionals navigate and operate efficiently in underwater environments. Our products support industries such as offshore wind, dredging, and ocean science.
 
 📍 **Headquarters:** Denmark 🇩🇰  
 🔗 **Website:** [www.eiva.com](https://www.eiva.com/)  
