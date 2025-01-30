@@ -1,4 +1,5 @@
-![EIVA A/S](/resources/Logo_RGB.png)
+![EIVA A/S Logo Light Mode](/resources/EIVA%20Logo_Black.png#gh-light-mode-only)
+![EIVA A/S Logo Dark Mode](/resources/Logo_White.png#gh-dark-mode-only)
 
 -----
 
