@@ -1,4 +1,4 @@
-![EIVA A/S](/resources/Logo_White.png)
+![EIVA A/S](/resources/Logo_RGB.png)
 
 -----
 
